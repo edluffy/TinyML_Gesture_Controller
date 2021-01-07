@@ -1,1 +1,1 @@
-# embedded-audio-classifier
+# TinyML Gesture Controller
